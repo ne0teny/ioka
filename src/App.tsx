@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useState } from 'react';
 import Pagination from './components/Pagination/Pagination';
 import { usePagination } from './hooks/usePagination';
